@@ -1,2 +1,2 @@
 streamlit
-streamlit-drawable-canva
+streamlit_drawable_canva
